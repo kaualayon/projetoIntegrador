@@ -1,4 +1,4 @@
-# projetoIntegrador
+# AutomationMange
 Projeto Integrador SENAI
 
 Descrição do Projeto: O SIMOPI é uma iniciativa voltada para a automação e análise
