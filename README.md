@@ -1,5 +1,5 @@
 # AutomationMange
-Projeto Integrador SENAI
+Projeto Integrador SENAI (SIMOPI)
 
 Descrição do Projeto: O SIMOPI é uma iniciativa voltada para a automação e análise
 de dados na produção industrial, visando otimizar e controlar de forma eficaz os
