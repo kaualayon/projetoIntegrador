@@ -1,6 +1,6 @@
 # AutomationMange
 
-<img src="logo.png" alt="Texto Alternativo">
+<img src="logo.png" alt="LogoAutomationMange">
 Projeto Integrador SENAI (SIMOPI)
 
 Descrição do Projeto: O SIMOPI é uma iniciativa voltada para a automação e análise
